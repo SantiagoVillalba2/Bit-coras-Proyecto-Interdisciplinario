@@ -1,1 +1,1 @@
-# Bit-coras-Proyecto-Interdisciplinario
+Trabajé en que el personaje pueda tener las mecánicas para moverse, para probar que funcione correctamente simplemente utilicé un sprite cualquiera del caballero de hollow knight, la parte de mi código ya está subida al github.
