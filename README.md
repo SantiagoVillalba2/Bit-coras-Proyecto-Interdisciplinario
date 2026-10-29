@@ -1,1 +1,1 @@
-# Bit-coras-Proyecto-Interdisciplinario
+Trabajé en poder hacer que el personaje se mueva y que cambie la posición del sprite dependiendo de la dirección a la que se está moviendo. También estuve poniendo comentarios en el código para que mis compañeros de trabajo puedan entender lo que hice para que funcione
