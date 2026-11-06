@@ -1,1 +1,1 @@
-# Bit-coras-Proyecto-Interdisciplinario
+Trabajé en que los diálogos aparezcan cuando se presione la tecla "E", logré que aparezca el bloque con el diálogo y nombre del personaje y que puedas salir del diálogo tocando ESC, más adelante voy a poner para que el diálogo aparezca al momento de acercarse a un NPC y tocar E
